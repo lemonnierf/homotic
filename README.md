@@ -10,7 +10,7 @@
 --------------------------------------------------------------- 
 
 
-Welcome to Homotic server
+Welcome to Homotic server !
 Control and interact with sensors from Raspberry/Arduino/Piface/...
 
 • Get DTH 11 feedback
