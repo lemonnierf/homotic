@@ -1,0 +1,32 @@
+{
+  "name": "Homotic",
+  "version": "0.0.1",
+  "description": "Homotic server for Raspberry",
+  "main": "server.js",
+  "dependencies": {
+    "rpi-gpio": "^0.5.0",
+    "express": "^3.2.6",
+    "async": "^0.2.10",
+    "socket.io": "^0.9.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lemonnierf/homotic.git"
+  },
+  "keywords": [
+    "Domotic",
+    "Nodejs",
+    "raspberry"
+  ],
+  "author": "Frédéric LE MONNIER",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lemonnierf/homotic/issues"
+  },
+  "homepage": "https://github.com/lemonnierf/homotic"
+}
